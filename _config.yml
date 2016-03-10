@@ -1,14 +1,26 @@
-layout_spectrum: 0.4011815
 color:
   saturation: 0.4129968
-  lightness: 0.4022556
   brandStrength: 0.4774436
+  rhythmicContrast: 0.4752954
   brandColors:
     - '#050503'
     - '#FFFFFF'
     - '#887F77'
     - '#C6BEB3'
     - '#9B6320'
-  rhythmicContrast: 0.4752954
+  lightness: 0.4022556
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4011815
 typography_spectrum: 0.6310419
 name: More Cowbell
