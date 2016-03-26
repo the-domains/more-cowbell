@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Pretty much how I am feeling right now working within this Grid posting interface.\_"
-datePublished: '2016-03-26T16:46:38.776Z'
-dateModified: '2016-03-26T16:46:27.387Z'
+datePublished: '2016-03-26T16:47:15.075Z'
+dateModified: '2016-03-26T16:46:45.269Z'
 title: My First Post
 author: []
 sourcePath: _posts/2016-03-26-my-first-post.md
