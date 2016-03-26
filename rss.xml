@@ -4,14 +4,14 @@
         <description><![CDATA[Needs More Cowbell]]></description>
         <link>https://thegrid.ai/more-cowbell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 16:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 16:47:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/more-cowbell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My First Post]]></title>
-            <description><![CDATA[<article><h1>My First Post</h1><p>undefined</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2281666c-75cb-4264-b332-0ae8e1ea40a8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>My First Post</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2281666c-75cb-4264-b332-0ae8e1ea40a8.jpg"></article>]]></description>
             <link>https://thegrid.ai/more-cowbell/my-first-post/index.html</link>
             <guid isPermaLink="false">da255c01-354e-4b50-9ed7-51a68f2d666d</guid>
-            <pubDate>Sat, 26 Mar 2016 16:46:38 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 16:47:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
