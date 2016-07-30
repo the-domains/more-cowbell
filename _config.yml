@@ -29,10 +29,10 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#d1d1d1'
-    - '#b2b2b2'
-    - '#959595'
-    - '#5b5b5b'
+    - '#ffffff'
+    - '#898989'
+    - '#4f4f4f'
+    - '#75aec3'
   brandStrength: 0.5625
   lightness: 0.3125
   saturation: 0.625
