@@ -1,41 +1,41 @@
-name: Needs More Cowbell
-favicon: null
-layout_spectrum: 0.63071
-typography_spectrum: 0.33567
+title: Needs More Cowbell
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Needs More Cowbell
+color:
+  saturation: 0.3125
+  brandStrength: 0.7761194
+  lightness: 0.4375
+  brandColors:
+    - '#000000'
+    - '#484446'
+    - '#221613'
+    - '#69291B'
+    - '#6D6679'
+  rhythmicContrast: 0.4752954
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Needs More Cowbell
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#898989'
-    - '#4f4f4f'
-    - '#75aec3'
-  brandStrength: 0.375
-  lightness: 0.4375
-  saturation: 0.3125
-  rhythmicContrast: 0.4752954
-purpose: []
+typography_spectrum: 0.33567
+layout_spectrum: 0.1072761
